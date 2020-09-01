@@ -1,0 +1,17 @@
+h4 {
+  margin-top: 0;
+  text-align: center;
+}
+
+mat-expansion-panel {
+  margin-bottom: 20px;
+  mat-form-field {
+    width: 48%;
+  }
+}
+.fullwidth {
+  width: 100%;
+}
+mat-dialog-content {
+  overflow: scroll !important;
+}
